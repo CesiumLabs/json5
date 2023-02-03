@@ -5,7 +5,7 @@
 
 `main.ts`
 ```js
-import JSON5 from "https://deno.land/x/json5";
+import JSON5 from "https://deno.land/x/json5/mod.ts";
 
 const data = `{
     // comments
